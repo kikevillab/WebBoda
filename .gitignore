@@ -1,0 +1,9 @@
+# OS specific
+.DS_Store
+Thumbs.db
+# IDE
+.idea
+._.idea
+./.idea
+*.gitignore
+._index.html
